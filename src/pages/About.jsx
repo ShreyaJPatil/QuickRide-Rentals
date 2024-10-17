@@ -32,17 +32,11 @@ const About = () => {
                 </h2>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                  At Quick Ride Render, we go the extra mile to ensure that your journey is as safe as it is comfortable. All our vehicles come equipped with state-of-the-art safety features, including airbags, anti-lock braking systems (ABS), and real-time GPS tracking, offering you confidence on the road.
                 </p>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                  We’re here for you around the clock. Our 24/7 support team is always ready to assist with any concerns or emergencies, so you can enjoy your ride with complete peace of mind. Safety isn't just a promise — it’s our commitment to every customer.
                 </p>
 
                 <div className=" d-flex align-items-center gap-3 mt-4">
@@ -52,7 +46,7 @@ const About = () => {
 
                   <div>
                     <h6 className="section__subtitle">Need Any Help?</h6>
-                    <h4>+00123456789</h4>
+                    <h4>+919307154348</h4>
                   </div>
                 </div>
               </div>
